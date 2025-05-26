@@ -112,4 +112,10 @@ body {
     .parametro-coluna__senha {
         flex-direction: row;
     }
+} 
+
+.barra{
+    background-color: var(--fundo-senha);(cor da barra)
+    height: 30px; (altura da barra)
+    width: 100px;
 }
